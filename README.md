@@ -1,6 +1,6 @@
 # p-maersk-demo
 
-It's demo application to Insert/Update/Fetch movies. It's combination of Spring Boot & H2 to handle request and save records
+It's a demo application to Insert/Update/Fetch movies. It's combination of Spring Boot & H2 to handle request and save records
 
 # Applicaton Setup
 > Software Requirements: <br />
@@ -13,7 +13,7 @@ Postman for testing api <br />
 > Build Application: <br />
 
 Clone application from git repo: use master branch<br />
-Import to your IDE <br />
+Import as a moven application to your IDE <br />
 Build the application from IDE or use command "mvn clean install" <br />
 Run application in IDE: either run as Java application or Spring boot application from IDE <br />
 Run using command line: "mvn spring-boot:run" <br />
