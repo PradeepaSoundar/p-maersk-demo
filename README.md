@@ -12,7 +12,7 @@ Postman for testing api <br />
 
 > Build Application: <br />
 
-Clone application from git repo <br />
+Clone application from git repo: use master branch<br />
 Import to your IDE <br />
 Build the application from IDE or use command "mvn clean install" <br />
 Run application in IDE: either run as Java application or Spring boot application from IDE <br />
